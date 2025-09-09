@@ -9,3 +9,6 @@ Para o desenvolvimento desse projeto, a equipe utilizou as seguintes tecnologias
 * [Prototipação]:
 
 # 🔹 TELA INICIAL
+<p align="center"> 
+  <img src="https://github.com/rodrigolsouza/otimiza-Recife/blob/main/assets/backlog_projeto_priorizado.png"/>
+</p>
