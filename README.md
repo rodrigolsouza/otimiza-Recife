@@ -13,4 +13,5 @@ Para o desenvolvimento desse projeto, a equipe utilizou as seguintes tecnologias
   <img src="https://github.com/rodrigolsouza/otimiza-Recife/blob/main/assets/backlog_projeto_priorizado.png"/>
 </p>
 
-* Diagrama do atividades: [Link](https://www.figma.com/board/3PcNoDFbIl2yLVrMSPUyGp/Untitled?node-id=0-1&t=FRQHK1Vdmfl6KVDn-1)
+* Diagrama do atividades: [Link](https://www.figma.com/board/fMYzT4HVMwTOsp8scpt7ue/Diagrama-de-Atividades?node-id=0-1&t=R8cGkAENEaIELqvx-1)
+* Screencast: [Link](https://drive.google.com/file/d/1LwnAvOAP_mfgCmGUq6LovHvUJYOfZGxK/view?usp=drive_link)
