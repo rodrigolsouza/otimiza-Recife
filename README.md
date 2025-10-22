@@ -7,9 +7,7 @@ O projeto otimiza Recife visa analisar os dados da cidade do Recife nos seus mai
 Para o desenvolvimento desse projeto, a equipe utilizou as seguintes tecnologias: 
 * [Tela do Projeto]
 * <p align="center"> 
-  <img src="<p align="center"> 
-    <img src="https://github.com/rodrigolsouza/otimiza-Recife/blob/main/assets/backlog_projeto_priorizado.png"/>
-</p>"/>
+  <img src="https://github.com/rodrigolsouza/otimiza-Recife/blob/main/assets/Foto_principal.jpeg"/>
 </p>
 * [Trello](https://trello.com/b/OBc9aplD/eng-de-softwareprojeto): utilizado para gestão do projeto;     
 * [Prototipação](https://www.figma.com/design/9PnQVVCobtbz26pfA8eRvG/PROT%C3%93TIPOS---FDS?node-id=0-1&t=sHZfVVKNvut9wBOP-1)
